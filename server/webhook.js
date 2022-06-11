@@ -13,7 +13,7 @@ const embedColor = {
 }
 
 /**
- * @typedef {Object} Webhook
+ * @typedef {Object} Webhook    
  * @property {String} title
  * @property {String} description
  */

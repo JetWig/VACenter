@@ -49,5 +49,13 @@
     "@types/node": "^16.3.1",
     "jsdoc": "^3.6.7",
     "jsdoc-tsimport-plugin": "^1.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetWig/VACenter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JetWig/VACenter/issues"
+  },
+  "homepage": "https://github.com/JetWig/VACenter#readme"
 }

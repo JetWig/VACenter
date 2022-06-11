@@ -1,1 +1,23 @@
-{}
+{
+  "code": "AVVA",
+  "name": "Avianca",
+  "other": {
+    "bg": "/public/images/stockBG2.jpg",
+    "logo": "https://va-center.com/public/images/logo.webp",
+    "rates": 100,
+    "navColor": [
+      "Dark",
+      "dark",
+      "Dark"
+    ],
+    "applications": {
+      "state": false,
+      "link": ""
+    },
+    "btnColor": false,
+    "ident": "CGWb9QEG5ezXi6hP9cD08osRH3AdIQNh6wSlkhLjqoFUe5FLTcPk7JS5CGoz70wA71lXZyLy1GQNoElBeRWOXqzqzI1uay1WgHRp",
+    "pirepPic": true,
+    "pirepPicExpire": 86400000,
+    "webhook": "https://discord.com/api/webhooks/985136255362809856/_fzUBOMdrh-QUPYt2KiOGhXt-UlO33GUh4K4q2vz-g-GBM6WT1bBpjHjCK7oG_SBW2kU"
+  }
+}

@@ -2154,7 +2154,7 @@ app.post("/admin/pireps/apr", async function (req, res){
                         await UpdateUser(owner.username, owner.rank, owner.admin, owner.password, owner.display, owner.profileURL, owner.hours, owner.created, owner.llogin, owner.cp, owner.revoked, owner.VANetID, user.manualRank)
                         res.redirect("/admin/pireps");
                         
-                        webhook.send({title:"PIREP Approved", description: `${config.code}${owner.username}'s PIREP (${targetPIREP.depICAO}=>${targetPIREP.arrICAO}) has been approved!`})
+                        
 
                     }else{
                         res.sendStatus(500);
